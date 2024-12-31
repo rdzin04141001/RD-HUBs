@@ -11363,8 +11363,7 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "RD HUB
-",
+    Name = "RD HUB",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://119980140458596",
     Time = 5
